@@ -1,0 +1,18 @@
+@media (width <= 749px) {
+    .about{
+        flex-direction: column;
+    }
+    .pic{
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (width<=445px) {
+    .skill-childs1{
+        width: 100%;
+    }
+    .box{
+        width: 90%;
+    }
+}
